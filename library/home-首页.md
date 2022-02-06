@@ -2,9 +2,6 @@
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+![嘻嘻](assets/home.png "再看给你一刀")  
 
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  \
-
-[ [amWiki 官网文档中心](https://amwiki.org/doc/) ]
+### 这里是一个保存各类设定故事想法的地方
